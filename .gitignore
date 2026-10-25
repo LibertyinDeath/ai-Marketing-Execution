@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# 敏感与临时文件
+*协议原件*
+*扫描件*
+*.docx.tmp
+*~$*
+.decrypted/
